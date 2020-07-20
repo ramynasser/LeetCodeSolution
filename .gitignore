@@ -4,3 +4,8 @@ Strings/GroupAnagrams.playground/playground.xcworkspace/xcshareddata/IDEWorkspac
 Strings/reverse-string-ii.playground/contents.xcplayground
 Strings/reverse-string-ii.playground/playground.xcworkspace/contents.xcworkspacedata
 Strings/reverse-string-ii.playground/playground.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+.DS_Store
+/.build
+.swiftpm
+/*.xcodeproj
+xcuserdata/
