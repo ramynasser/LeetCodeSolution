@@ -12,5 +12,5 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 [541. Reverse String II](https://github.com/ramynasser/LeetCodeSolution/blob/master/Strings/reverse-string-ii.playground/Contents.swift)
 
 ### [Array](https://github.com/ramynasser/LeetCodeSolution/tree/master/Array)
-[1. Two Sum](https://github.com/ramynasser/LeetCodeSolution/blob/master/Strings/GroupAnagrams.playground/Contents.swift)
+[1. Two Sum](https://github.com/ramynasser/LeetCodeSolution/blob/master/Array/two-sum.playground/Contents.swift)
 
