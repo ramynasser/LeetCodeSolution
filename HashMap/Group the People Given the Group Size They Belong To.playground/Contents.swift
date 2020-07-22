@@ -9,23 +9,22 @@
 */
 
 import UIKit
-func groupThePeople(_ groupSizes: [Int]) -> [[Int]] {
-    var dict = [Int:[Int]]()
-    var persons: [[Int]] = []
+func removeDuplicates(_ nums: inout [Int]) -> Int {
+    if (nums.count == 0) {
+        return 0
+     }
+    var prev = nums[0]
+    var j = 1
 
-    for index in 0..<groupSizes.count {
-        if dict.keys.contains(groupSizes[index]) {
-            dict[groupSizes[index]]?.append(index)
-        } else {
-            dict[groupSizes[index]] = [index]
+    for i in 0..<nums.count {
+            if nums[i] != prev {
+                nums[j] = nums[i]
+                prev = nums[j]
+                 j = j + 1
+              }
         }
         
-        
-        if dict[groupSizes[index]]?.count == groupSizes[index] { // reach to the
-            persons.append(dict[groupSizes[index]] ?? [])
-            dict.removeValue(forKey: groupSizes[index])
-        }
-    }
-    
-    return persons
+   return j
 }
+var ar = [0,0,1,1,1,2,2,3,3,4,4,6,10]
+removeDuplicates(&ar)
