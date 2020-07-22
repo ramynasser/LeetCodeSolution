@@ -14,3 +14,5 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 ### [Array](https://github.com/ramynasser/LeetCodeSolution/tree/master/Array)
 [1. Two Sum](https://github.com/ramynasser/LeetCodeSolution/blob/master/Array/two-sum.playground/Contents.swift)
 
+[1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/ramynasser/LeetCodeSolution/blob/master/Array/sumEvenGrandparent.playground/Contents.swift)
+
