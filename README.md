@@ -16,6 +16,8 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 
 [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/ramynasser/LeetCodeSolution/blob/master/Array/sumEvenGrandparent.playground/Contents.swift)
 
+[26. Remove Duplicates from Sorted Array](https://github.com/ramynasser/LeetCodeSolution/blob/master/Array/removeDuplicates.playground/Contents.swift)
+
 ### [HaspMap](https://github.com/ramynasser/LeetCodeSolution/tree/master/HashMap)
 [1282. Group the People Given the Group Size They Belong To](https://github.com/ramynasser/LeetCodeSolution/blob/master/HashMap/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.playground/Contents.swift)
 
