@@ -28,6 +28,10 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 
 [144. Binary Tree Preorder Traversal](https://github.com/ramynasser/LeetCodeSolution/blob/master/BinaryTree/Binary%20Tree%20Preorder%20Traversal.playground/Contents.swift)
 
+### [Linked List](https://github.com/ramynasser/LeetCodeSolution/tree/master/LinkedList)
+[1290. Convert Binary Number in a Linked List to Integer](https://github.com/ramynasser/LeetCodeSolution/blob/master/LinkedList/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.playground/Contents.swift)
+
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 
 
