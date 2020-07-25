@@ -1,24 +1,17 @@
 
 /**
 * Problem
-*     142. Linked List Cycle II
-*    https://leetcode.com/problems/linked-list-cycle-ii/
+*     287. Find the Duplicate Number
+*    https://leetcode.com/problems/find-the-duplicate-number/
 * Grade of difficulty
 *     Medium
 * @author Ramy
 */
 
+
 import UIKit
-// * Definition for singly-linked list.
-public class ListNode {
-     public var val: Int
-      public var next: ListNode?
-      public init(_ val: Int) {
-          self.val = val
-          self.next = nil
-      }
- }
- class Solution {
+
+class Solution {
     func findDuplicate(_ nums: [Int]) -> Int {
         var tableData = [Int:Int]()
         for num in nums {
@@ -30,8 +23,4 @@ public class ListNode {
         }
         return 0
     }
- }
-
-    
-
-
+}
