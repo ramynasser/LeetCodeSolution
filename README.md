@@ -35,5 +35,7 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 
 [328. Odd Even Linked List](https://github.com/ramynasser/LeetCodeSolution/blob/master/LinkedList/%20Odd%20Even%20Linked%20List.playground/Contents.swift)
 
+[160. Intersection of Two Linked Lists](https://github.com/ramynasser/LeetCodeSolution/blob/master/LinkedList/Intersection%20of%20Two%20Linked%20Lists.playground/Contents.swift)
+
 
 
