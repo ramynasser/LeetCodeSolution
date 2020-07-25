@@ -20,6 +20,7 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 
 ### [HashMap](https://github.com/ramynasser/LeetCodeSolution/tree/master/HashMap)
 [1282. Group the People Given the Group Size They Belong To](https://github.com/ramynasser/LeetCodeSolution/blob/master/HashMap/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.playground/Contents.swift)
+[287. Find the Duplicate Number](https://github.com/ramynasser/LeetCodeSolution/blob/master/HashMap/Find%20the%20Duplicate%20Number.playground/Contents.swift)
 
 ### [Binary Search Tree](https://github.com/ramynasser/LeetCodeSolution/tree/master/BinaryTree)
 [94. Binary Tree Inorder Traversal](https://github.com/ramynasser/LeetCodeSolution/blob/master/BinaryTree/Binary%20Tree%20Inorder%20Traversal.playground/Contents.swift)
