@@ -33,5 +33,7 @@ My leetcode account : [Ramy Nasser](https://leetcode.com/ramy_nasser_eg/)
 
 [141. Linked List Cycle](https://github.com/ramynasser/LeetCodeSolution/blob/master/LinkedList/Linked%20List%20Cycle.playground/Contents.swift)
 
+[328. Odd Even Linked List](https://github.com/ramynasser/LeetCodeSolution/blob/master/LinkedList/%20Odd%20Even%20Linked%20List.playground/Contents.swift)
+
 
 
